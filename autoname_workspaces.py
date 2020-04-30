@@ -114,6 +114,8 @@ WINDOW_ICONS = {
     'unity-control-center': fa.icons['cog'],
     'urxvt': fa.icons['terminal'],
     'virtualbox': fa.icons['windows'],
+    'virtualbox machine': fa.icons['windows'],
+    'virtualbox manager': fa.icons['windows'],
     'xfce4-terminal': fa.icons['terminal'],
     'xournal': fa.icons['file-alt'],
     'yelp': fa.icons['code'],

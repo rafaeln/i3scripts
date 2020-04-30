@@ -76,6 +76,7 @@ WINDOW_ICONS = {
     'gpick': fa.icons['eye-dropper'],
     'gvim': fa.icons['edit'],
     'gnome-disks': fa.icons['hdd'],
+    'gnome-screenshot': fa.icons['object-group'],
     'imv': fa.icons['image'],
     'java': fa.icons['code'],
     'jetbrains-idea': fa.icons['code'],

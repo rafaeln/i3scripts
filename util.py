@@ -19,7 +19,7 @@ def focused_workspace(i3):
 # * 'icons' - the string that comes after the
 # Any field that's missing will be None in the returned dict
 def parse_workspace_name(name):
-    m = re.match('(?P<num>\d+):?(?P<shortname>\w+)? ?(?P<icons>.+)?',
+    m = re.match(r'(?P<num>\d+):?(?P<shortname>\w+)? ?(?P<icons>.+)?',
                  name).groupdict()
     return NameParts(**m)
 

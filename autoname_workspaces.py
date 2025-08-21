@@ -105,10 +105,10 @@ WINDOW_ICONS = {
     'signal': fa.icons['comment'],
     'slack': fa.icons['slack'],
     'slic3r.pl': fa.icons['cube'],
-    'spotify': fa.icons['music'],  # could also use the 'spotify' icon
     'skype': fa.icons['skype'],
     'spotify': fa.icons['music'],  # could also use the 'spotify' icon
     'steam': fa.icons['steam'],
+    'strawberry': fa.icons['music'],
     'subl': fa.icons['file-alt'],
     'subl3': fa.icons['file-alt'],
     'sublime_text': fa.icons['file-alt'],
